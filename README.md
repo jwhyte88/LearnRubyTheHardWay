@@ -1,5 +1,5 @@
 # Completed Exercises 
-## from Learn Ruby The Hard Way
+## From Learn Ruby the hard way.
 
 This repository simply includes completed exercises from http://ruby.learncodethehardway.org, with added notes.
 
