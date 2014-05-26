@@ -2,12 +2,12 @@
 - [x] Exercise 1: A Good First Program
 - [x] Exercise 2: Comments And Pound Characters
 - [x] Exercise 3: Numbers And Math
-- [ ] Exercise 4: Variables And Names
-- [ ] Exercise 5: More Variables And Printing
-- [ ] Exercise 6: Strings And Text
-- [ ] Exercise 7: More Printing
-- [ ] Exercise 8: Printing, Printing
-- [ ] Exercise 9: Printing, Printing, Printing
+- [x] Exercise 4: Variables And Names
+- [x] Exercise 5: More Variables And Printing
+- [x] Exercise 6: Strings And Text
+- [x] Exercise 7: More Printing
+- [x] Exercise 8: Printing, Printing
+- [x] Exercise 9: Printing, Printing, Printing
 - [ ] Exercise 10: What Was That?
 - [ ] Exercise 11: Asking Questions
 - [ ] Exercise 12: Libraries
