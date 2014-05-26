@@ -1,7 +1,7 @@
 # The Hard Way Is Easier
-1. Exercise 1: A Good First Program
-2. Exercise 2: Comments And Pound Characters
-3. Exercise 3: Numbers And Math
+1. - [ ] Exercise 1: A Good First Program
+2. - [ ] Exercise 2: Comments And Pound Characters
+3. - [ ] Exercise 3: Numbers And Math
 4. Exercise 4: Variables And Names
 5. Exercise 5: More Variables And Printing
 6. Exercise 6: Strings And Text
